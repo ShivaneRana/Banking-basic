@@ -1,3 +1,5 @@
+//this is a account class which contain all the variable and fuction.
+
 import java.util.Scanner;
 public class accounts{
     Scanner scanner = new Scanner(System.in);

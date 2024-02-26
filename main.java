@@ -1,3 +1,5 @@
+//this is a main.java file
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
